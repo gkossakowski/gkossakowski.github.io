@@ -4,10 +4,12 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hello, world! My name is Grzegorz. I'm a writer of [code](http://github.com/gkossakowski) and (aspirationally) of [words](http://gkossakowski.netlify.com/). In the past I worked on systems programming and programming language design, both stepped into by trying to figure out how things truly work.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+For over a year, my focus has shifted to Deep Learning and its applications. I believe that with an abundance of deep learning research and progress on synthetic tasks, thinking of applying these advances is a highly creative work.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+My current focus in at the intersection of biology and deep learning.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![Stock photo, not my actual desk](/media/image-2.jpg)
+
+*The photo above is not of my desk (I wish!). It came with the website template, I was about to delete it and I changed my mind on a whim.*
