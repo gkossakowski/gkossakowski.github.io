@@ -4,11 +4,12 @@ date: "2020-04-08T00:40:21"
 template: "post"
 draft: false
 slug: "drug-repurposing-with-an-algorithm-covid-19"
-category: "personal"
+category: "precision medicine"
 tags:
   - "covid-19"
   - "machine learning"
   - "programming languages"
+  - "precision medicine"
 description: "Programmers will recognize in drug repurposing a hack. A great, though."
 # socialImage: "/media/image-2.jpg"
 ---
