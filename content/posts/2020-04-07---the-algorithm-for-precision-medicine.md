@@ -10,7 +10,7 @@ tags:
   - "machine learning"
   - "programming languages"
   - "precision medicine"
-description: "Programmers will recognize in drug repurposing a hack. Of great significance, though."
+description: "Programmers will recognize in drug repurposing a hack. A notably rewarding one."
 socialImage: "/photo.jpg"
 ---
 
