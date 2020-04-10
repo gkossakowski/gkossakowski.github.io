@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://gkk.dev',
   pathPrefix: '/',
   title: 'Blog by Grzegorz Kossakowski',
   subtitle: 'Subtitle: TBD',
