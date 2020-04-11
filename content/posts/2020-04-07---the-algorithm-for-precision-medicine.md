@@ -100,7 +100,7 @@ very good and non-obvious point about the practical reality of taking a computer
 recommendation and handing it to a domain expert, i.e. a doctor. Accompanying the actual suggestion
 with proof is a natural strength of logic-based AI. So why would you reach out for newer modeling
 methods that struggle with explainability? The downside of logic-based AI is that it deals poorly
-with noisy or non-structural data. The logical inference Matt Might described in his talk works on
+with noisy or unstructured data. The logical inference Matt Might described in his talk works on
 top of a knowledge graph mined from 30 million of medical and biological publications. To extract
 the knowledge about proteins, enzymes and other building biological building blocks, he mentioned
 the use of Natural Language Processing. Matt Might didn’t comment directly on what flavor of NLP he
