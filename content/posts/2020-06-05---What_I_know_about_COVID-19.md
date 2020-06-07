@@ -155,7 +155,7 @@ The real world is more complicated than computer simulations but the basic laws 
 
 ## Predictions and final thoughts
 
-COVID-19 is the biggest story of 2020 and will shape most events and policies of this year, either directly or as a fallout of the economic and public health crises.
+COVID-19 is the biggest story of 2020 and will shape most events and policies of this year, either directly as a public health crises or indirectly as a fallout of the economic crisis.
 
 Exponential growth, which still (in June) approximates the development of the epidemic, is both dramatic and fragile. If left alone, it will exploit the virus's innate transmission rate and explode as it did in Northern Italy or NYC. Controlling its spread is difficult. A combination of universal mask-wearing and testing, tracing and isolating seems to be the most promising path forward. Western societies will struggle with both mask-wearing and contact tracing. They require deep changes to how we live and the more we succeed in implementing the more they will feel unnecessary.
 
