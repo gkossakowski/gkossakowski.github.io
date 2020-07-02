@@ -115,6 +115,7 @@ module.exports = {
               maxWidth: 960,
               withWebp: true,
               ignoreFileExtensions: [],
+              linkImagesToOriginal: false,
             }
           },
           {
