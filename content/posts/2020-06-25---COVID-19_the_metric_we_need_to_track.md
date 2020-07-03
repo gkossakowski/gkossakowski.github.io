@@ -8,7 +8,7 @@ category: "covid-19"
 tags:
  - "COVID-19"
 description: "Every multi-dimensional crisis requires tight feedback loops for an effective assessment and management, COVID-19 is no exception."
-socialImage: "/photo.jpg"
+socialImage: "2020-07-02-COVID-19-social-image.png"
 ---
 
 Back in March, I was sitting at home and watching COVID-19 case numbers rise at different rates across the world. It was also the time of
