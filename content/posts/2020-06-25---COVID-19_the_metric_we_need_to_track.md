@@ -7,7 +7,7 @@ slug: "covid-19-metric-we-need-to-track"
 category: "covid-19"
 tags:
  - "COVID-19"
-description: "Every multi-dimensional crisis requires tight feedback loops for an effective assessment and management, COVID-19 is no exception."
+description: "Every multi-dimensional crisis requires tight feedback loops for effective assessment and management; COVID-19 is no exception."
 socialImage: "2020-07-02-COVID-19-social-image.png"
 ---
 
