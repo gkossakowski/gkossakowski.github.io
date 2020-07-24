@@ -7,18 +7,6 @@ slug: quickstart-molecular-biology
 category: biology
 tags:
  - biology
-description: A crash course in molecular biology on 160 pages.
----
-
----
-title: Quickstart Molecular Biology
-date: 2020-07-23T04:34:18.952Z
-template: post
-draft: false
-slug: quickstart-molecular-biology
-category: biology
-tags:
- - biology
 description: A crash course in molecular biology on 160 pages if you need one.
 ---
 
