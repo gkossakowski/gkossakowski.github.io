@@ -79,4 +79,4 @@ While the disease's nitty-gritty details were interesting to me personally, I th
 
 The key to successful epidemic response is doing so much of science-based policy that it feels like an overreaction. However, there's always a reason not to act: an upcoming election, a war to win, or stock market worship.
 
-The US in 2020 has 4% of the world population, but around 20% of deaths when I write this note. Sadly, it's a metric of a state that went astray. I don't see that changing in the coming few months. Given what I learned about an epidemic's mechanics from the book, I dread for the coming winter.
+The US in 2020 has 4% of the world population, but around 20% of deaths from COVID-19 when I write this note. Sadly, it's a metric of a state that went astray. I don't see that changing in the coming few months. Given what I learned about an epidemic's mechanics from the book, I dread for the coming winter.
