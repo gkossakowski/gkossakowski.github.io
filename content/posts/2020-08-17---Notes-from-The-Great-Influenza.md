@@ -51,11 +51,11 @@ Medical science more often resembled shamanism with the idea of bloodletting wid
 
 ## Microscope - a magnificent new tool
 
-The discussion of the state of biology and medicine included the device invented over 80 years before the 1918 pandemic - the microscope. The use of a microscope to probe the nature practiced in Europe but lagging behind in America is attributed to the Old Continent's edge in medicine. European biologists had the new capability to test in a lab setting theories of disease spread. A quote from Louis Pasteur captures the excitement at the time:
+The discussion of the state of biology and medicine included the device invented over 80 years before the 1918 pandemic - the microscope. The use of a microscope to probe the nature practiced in Europe but lagging behind in America is attributed to the Old Continent's edge in medicine. European biologists acquired the new capability of testing theories of disease spread in a lab setting. A quote from Louis Pasteur captures the excitement at the time:
 
 > I'm on the edge of mysteries, and the veil is getting thinner and thinner.
 
-A microscope was pivotal to the development of the germ theory of the disease. Further probing of the theory would lead to creating a conceptual framework for confronting infectious diseases, including influenza. Public health, as a rigorous discipline, was born.
+A microscope was pivotal to the development of the germ theory of the disease. Further probing of the theory would lead to the creation a conceptual framework for confronting infectious diseases, including influenza. Public health, as a rigorous discipline, was born.
 
 It is interesting to me how a relatively simple instrument had such an outsized impact when you consider 2-hop consequences. Another quote from the book sums it up nicely:
 
@@ -67,7 +67,7 @@ I found The Great Influenza dwelling on minor details too much. However, I reall
 
 Political administration was covering up the early indications of the epidemic to keep the public calm. The goal was to avoid disrupting the support for America's participation in the war. All events and missteps described in the book reveal pandemic response's basic truism: you can either do too little or too much. Never just right.
 
-However, doing too much requires the public's cooperation, which hinges on thorough, honest communication. The US administration did just the opposite. It went as far as creating a misinformation campaign - fabricating a rosy picture within the country. When facts on the ground disagreed with the campaign, plain censorship would kick in. The next step is people realizing people are dying but (censored) media and political leaders whitewashing the reality. And then next step that everyone loses trust, panics, and society disintegrates. People stop caring for each other out of fear of the unknown. Lincon said it the best:
+However, doing too much requires the public's cooperation, which hinges on thorough, honest communication. The US administration did just the opposite. It went as far as creating a misinformation campaign - fabricating a rosy picture within the country. When facts on the ground disagreed with the campaign, plain censorship would kick in. The virus spreads people are dying but (censored) media and political leaders are whitewashing the reality and lies are increasingly clear. And then next step that everyone loses trust, panics, and society disintegrates. People stop caring for each other out of fear of the unknown. Lincon said it the best:
 
 > A leader must make whatever horror exists concrete. Only then will people be able to break it apart.
 
