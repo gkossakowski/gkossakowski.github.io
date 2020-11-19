@@ -2,7 +2,7 @@
 title: Data science in biology
 date: 2020-11-16T19:47:24.630Z
 template: post
-draft: true
+draft: false
 slug: data-science-biology
 category: biology
 tags:
