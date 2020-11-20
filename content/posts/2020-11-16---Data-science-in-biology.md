@@ -82,4 +82,5 @@ PS. Surprisingly, there isn't something like GitHub for biologists.
 [0] Contrary to most working in this area, I have a hunch that R&D in microscale
 biology rather than medical diagnosis is the good _first_ bet for applying deep
 learning to life sciences.
+
 [1] I would argue that bioinformatics should be called genomeinformatics - it's constrained to one application area
