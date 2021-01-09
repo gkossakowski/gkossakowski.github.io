@@ -10,6 +10,7 @@ tags:
   - sports medicine
   - recovery
 description: "Undoubtedly, my recovery from a rare and daunting condition is the best story I can tell."
+socialImage: "2020-01-09-death-star-2.jpeg"
 ---
 
 > “Everybody’s at war with different things, I’m at war with my own heart sometimes.” - Tupac
