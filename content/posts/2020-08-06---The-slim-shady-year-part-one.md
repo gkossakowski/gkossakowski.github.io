@@ -1,6 +1,6 @@
 ---
 title: "The Slim shady year, part one"
-date: 2021-01-02T22:13:40.636Z
+date: 2021-01-08T22:13:40.636Z
 template: post
 draft: false
 slug: slim-shady-year-part-one
