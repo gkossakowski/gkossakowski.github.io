@@ -135,10 +135,11 @@ interventions that I described in my notes. None of them seemed to address the
 root cause of the problem. My doctor at the clinic declared he is out of ideas.
 I had a month left in Basel. I decided to follow one more clue: Luca (one of my
 therapists) discovered that I had a condition called visual suppression caused
-by convergence insufficiency. In a nutshell, we suspected that there might be
-small residual damage in my brain's perceptual regions with a close link with
-the sense of balance. Adductor is one of the muscles that participate in
-stabilizing hips and balance maintenance.
+by convergence insufficiency. In a nutshell, we suspected that my [ski
+accident](https://gkossakowski.medium.com/silicon-valley-exit-event-the-hard-landing-bb9c3125e25)
+might have left a small residual damage in my brain's perceptual regions that
+are closely linked with the sense of balance. Adductor is one of the muscles
+that participate in stabilizing hips and balance maintenance.
 
 One of the challenges you face when dealing with a mysterious condition is that
 there's a lot of guesswork and false hopes involved. The trick is to stay open
