@@ -217,7 +217,7 @@ having observed how physical therapist reacted to other patients that were
 consistently outpouring their ills on their surroundings. The therapist I
 watched would be professional, but deep inside count minutes until the end of
 their time slot with a mood-sucker. And to be clear, I'm talking about
-embittered people, not the ones truly suffering at the moment. Anyway, I didn't
+embittered people, not the ones truly suffering in the moment. Anyway, I didn't
 want to be one of these people, yet my mental health wasn't excellent to say the
 least, and I suspected everyone could tell. I reached out to the great Slimshady
 for consolation. Each morning, as I biked to the clinic or the training, I would
