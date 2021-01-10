@@ -48,7 +48,7 @@ will serve as a guide and a backup - even if your writing falls short of high
 aspirations, a good story still will be there to save the reader. Undoubtedly,
 my recovery from a rare and daunting condition is the best story I can tell. On
 the one hand, my whole endeavor is a two-and-a-half-year-long Marshmallow test.
-There were so many times when I thought I'm wasting my life pursuing a hopeless
+There were so many times when I thought I'm wasting my life chasing a hopeless
 goal. On the other hand, this is a tale of trekking the very edge of sports
 medicine and a relentless search for a hidden pass.
 
@@ -76,8 +76,9 @@ screw up your privilege. It's a story of how not to punk out.
 
 My intention is not to be brief. I'm writing how I wish somebody else told me
 everything I know now when I was running around looking for a solution or just a
-sliver of hope. I would cherish every word if I found a series like this - I
-searched wide and deep - as you'll see.
+sliver of hope. A rich backstory would help me believe that this person I'm talking
+to truly knows what a health struggle is about. I would cherish every word if I
+found a series like this - I searched wide and deep - as you'll see.
 
 ## The Basel rewind
 
