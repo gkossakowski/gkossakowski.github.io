@@ -186,10 +186,9 @@ other Olympic athletes on the list. Two questions were popping into my mind: 1.
 what's so special about this famous doctor that's attracting all these top-notch
 people? 2. how can I become part of the list?
 
-I didn't belong to that list, but that didn't matter. The online accounts
-suggested it was indeed a special place, and beating my injury is all I cared
-about. To give you a sense of how much I cared, let me highlight some of the
-things I did before my conversation about the Munich clinic Fabienne
+I didn't belong to that list, but that didn't matter. Beating my injury is all I
+cared about. To give you a sense of how much I cared, let me highlight some of
+the things I did before my conversation about the Munich clinic Fabienne
 recommended. I was taking detailed, everyday notes on changes to my muscle
 tension in hopes of working out a pattern. I sat in a library and read sports
 medicine research papers on hamstring injuries in the hope of finding a
