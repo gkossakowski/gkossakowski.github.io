@@ -3,7 +3,7 @@ title: "The Slim shady year, part one"
 date: 2021-01-08T22:13:40.636Z
 template: post
 draft: false
-slug: slim-shady-year-part-one
+slug: slim-shady-year-part1
 category: health
 tags:
   - health
