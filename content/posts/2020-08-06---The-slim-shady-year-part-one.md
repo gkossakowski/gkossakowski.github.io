@@ -94,10 +94,10 @@ The recap of my injury I wrote back in 2018:
 > to stand out.
 
 I moved to Basel for the summer of 2018 by taking a sabbatical from my job at
-Stripe. The plan was to entirely focus on the injury, spend three months solving
-the underlying puzzle, and fix the problem. I would come back to San Francisco,
-recovered, and back to kicking. It was a good plan and a bet on the original
-sports clinic in Europe.
+Stripe. The plan was to entirely focus on the injury, spend three months working
+out the underlying puzzle, and fix my problem. I would come back to San
+Francisco, recovered, esctatic, and back to kicking. I bet on the original sports
+clinic of Europe, and it felt like a good plan.
 
 I took detailed notes of my first eight weeks of recovery. You can check them
 out if you're really curious. Notes from previous weeks: [week
