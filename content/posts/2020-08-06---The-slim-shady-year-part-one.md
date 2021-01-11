@@ -218,7 +218,7 @@ consistently outpouring their ills on their surroundings. The therapist I
 watched would be professional, but deep inside count minutes until the end of
 their time slot with a mood-sucker. And to be clear, I'm talking about
 embittered people, not the ones truly suffering in the moment. Anyway, I didn't
-want to be one of these people, yet my mental health wasn't excellent to say the
+want to be one of the whiners, yet my mental health wasn't excellent to say the
 least, and I suspected everyone could tell. I reached out to the great Slimshady
 for consolation. Each morning, as I biked to the clinic or the training, I would
 snug my Airpods in and blast 'Till I Collapse by Eminem:
@@ -236,7 +236,7 @@ details (and retaining a fraction of what I read), but I missed the big picture.
 And more importantly, nothing was turning up in the "hamstring injuries lead to
 adductor issues" category. I decided to continue sitting in the library, but my
 reading list expanded with books on elite athletes. I was interested in
-ahtlete's medical teams in the hope of finding leads to other doctors. I
+athlete's medical teams in the hope of finding leads to other doctors. I
 researched and called clinics in Dubai, Abu Dabi, Tokyo, Quebec, and Toronto. To
 no avail. Once I got over front desk workers - to the actual doctors - the
 conversation always ended either of two ways. One way was "we don't think we
