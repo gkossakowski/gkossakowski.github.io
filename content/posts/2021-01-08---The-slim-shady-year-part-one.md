@@ -13,9 +13,9 @@ description: "Undoubtedly, my recovery from a rare and daunting condition is the
 socialImage: "2020-01-09-death-star-2-social-image.jpeg"
 ---
 
-> “Everybody’s at war with different things, I’m at war with my own heart sometimes.” - Tupac
+> "Everybody’s at war with different things, I’m at war with my own heart sometimes." - Tupac
 
-## The Gensis
+## The Genesis
 
 "It's going to be very hard for you to see him" - my physical therapist
 commented.
