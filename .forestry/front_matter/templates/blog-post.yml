@@ -29,3 +29,5 @@ fields:
 - type: datetime
   name: socialImage
   label: socialImage
+pages:
+- content/the-slim-shady-year-part-two.md
