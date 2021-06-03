@@ -4,7 +4,7 @@ date: 2021-01-08T22:13:40.636Z
 template: post
 draft: false
 slug: slim-shady-year-part1
-category: health
+category: purgatory
 tags:
   - health
   - sports medicine
@@ -55,7 +55,7 @@ medicine and a relentless search for a hidden pass.
 When I moved to San Francisco over three years ago, I was immediately struck by
 life-advice culture, especially in the work setting. Only closer inspection
 lifted the lid on the little secret - the advice is aspirational. It often
-expresses more the intent of how the world should work than reveals its laws.
+expresses more the intent of how the world should work than reveals its mechanics.
 For example, beware of any management book that doesn't talk about emotions. Ben
 Horowitz said once that people management's basic motions are easy and emotions
 are the hard part of the job. I agree and would expand this to health struggles
@@ -250,7 +250,7 @@ Fabienne was one of the best physical therapists I've met. She had this
 fantastic feel for the body and what I like to call kinesthetic intelligence.
 She could instantly pin down my muscle issues just as I was walking in. She was
 unusually observant and curious. Her earnest recommendation of a mysterious
-clinic in Munich was a strong signal for me. I wanted to give it a chance. After
+clinic in Munich was a strong signal for me. I thought it was worth giving it a chance. After
 all, Munich wasn't that far from Basel.
 
 The hard part was getting an appointment. In my scattershot attempts, I'd find
