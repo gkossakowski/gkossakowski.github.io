@@ -1,6 +1,6 @@
 ---
 title: The Slim shady year, part three
-date: 2021-02-06T23:00:00.000+00:00
+date: 2021-04-06T23:00:00.000+00:00
 template: post
 draft: false
 slug: slim-shady-year-part3
