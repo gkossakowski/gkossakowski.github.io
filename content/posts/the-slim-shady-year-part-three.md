@@ -117,6 +117,14 @@ practitioners are overstretching the scope where Z-health applies. Having that s
 enormous and underrated value to a neuro-muscular view of tension’s and pain’s origin, as I later
 discovered. Keep on reading this series if you want to learn more.
 
+Going back to JP Meersseman, I commuted between Basel and Como for six weeks. On next visit, I
+shared with JP Meersseman that we've worked together for a while, my tension didn't ease even one
+bit, and I was growing impatient. He responded he didn't understand my problem, but he said he would
+send me to another chiropractor at his clinic, and he would join in a few minutes to
+brainstorm the next steps. He never showed up. That was my last trip to Como.
+
+Both JP Meersseman and Michel displayed magnificent confidence they couldn't back up with results.
+
 ## Fighter's State Of Mind
 
 One of my favorite lines from Ben Horowitz is that the most difficult CEO skill is controlling your
@@ -286,7 +294,7 @@ knew the doctor directly.
 While researching the clinic online, I stumbled upon a news story of Usain Bolt, the fastest
 sprinter on earth, who was treated in Munich, in the clinic I was trying to reach! Digging a lot
 more (and relying on the Google Books trick I mentioned earlier), I learned an astonishing fact:
-Usain Bolt was born with scoliosis and had been battling associated injuries for his whole career.
+Usain Bolt was born with scoliosis and had been battling associated back injuries for his whole career.
 The fastest man on earth with scoliosis! I remember thinking to myself that moment that if Bolt
 could overcome such an obstacle, maybe there's a vast space for me to explore. And at that moment, a
 crazy idea popped into my head: I would track down Usain Bolt's physical therapist, try to reach
@@ -363,10 +371,10 @@ instead o asking for open slots, I would hand my dates, and ask for an opening.
 While hashing out the details of my surgery in Warsaw with the doctor, I asked when is the earliest
 time I could fly after the surgery and explained I had a genuinely urgent business in Munich. He
 recommended waiting four days which I didn't have. After a bit back and forth, we agreed I would
-acknowledge I'm approaching the risk edge and go in 2 days. I would have to be extremely careful,
-avoid prolonged sitting and any sudden or straining moves.  We also talked about my return trip to
-California, which is roughly 12 hours of sitting. The doctor was horrified at the prospect and said
-I should really not fly for at least two weeks after the surgery.
+acknowledge I'm at the edge of sound risk-taking, I would wait two days before I go. I would have to
+be extremely careful, avoid prolonged sitting and any sudden or straining moves.  We also talked
+about my return trip to California, which is roughly 12 hours of sitting. The doctor was horrified
+at the prospect and said I should really not fly for at least two weeks after the surgery.
 
 I thought maybe I could work remotely these two weeks after my sabbatical ran its course. I
 contacted my manager at Stripe, explained the details, and made him uncomfortable about breaking
@@ -420,10 +428,10 @@ Tim Ferris wrote about something I haven't considered: when trying to reach the 
 with the second-best option. Tim mentioned athletes as an example, where a gold medalist gets all
 accolades and the spotlight but at the same time is incredibly overwhelmed. The second-best athlete
 might score a tiny bit less (due to pure bad luck) and be as insightful on what it takes to be the
-top performer. If you didn't care about warming up in the spotlight of the top guy but looked for
+top performer. If you didn't care about warming up in the spotlight at the top but looked for
 competence, you'd be happy with the second-best.
 
-In any case, I remembered Fabienne's advice that "Bavaria is not like California." I knew what she
+In any case, I remembered Fabienne's advice that "Bavaria is not like California." What she
 was telling me: Bavaria doesn't have the hustling culture, so I had to tread carefully. The day I
 landed in Munich, I went to the clinic and introduced myself. I said I called and emailed, but I
 didn't get an appointment. I had this recommendation from the Basel clinic, and I wanted to see if I
@@ -482,6 +490,15 @@ hear another "no" and take the letter out of my pocket in the leather jacket I w
 it as proof I'd go to great lengths to get an appointment. To my surprise, the lady responded with a
 stoic attitude: we have an appointment for you with Doctor Wagner (not his real name) would see me.
 I was amazed. I asked when I would be able to see the doctor; it was just four weeks away.
+
+So what happened? I learned about this many months later. It turned out that the chief doctor went
+on German national television, and on a prime-time talk show, announced his autobiography that goes
+deep into how he developed his healing methods. He went from obscurely elite to being a celebrity
+overnight. Suddenly, people from all over Germany wanted to see him and were hammering down his
+office phone number. The phone line succumbed, and the clinic essentially stopped seeing new
+patients. Not out of exclusivity but out of necessity. I couldn't get in, but it wasn't about me. I
+got reminded of an important life lesson: whatever is happening more often than not, it's not about
+you.
 
 Doctor Wagner wasn't the chief doctor I was seeking, but I remembered Tim Ferris' point of the
 effectiveness of reaching for the second-best. Building on it, great people hire other great people,
