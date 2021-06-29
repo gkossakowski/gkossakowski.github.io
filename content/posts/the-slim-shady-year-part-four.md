@@ -1,6 +1,6 @@
 ---
 title: The slimshady year, part four
-date: 2021-06-18T16:04:00.000+00:00
+date: 2021-06-28T16:04:00.000+00:00
 template: post
 draft: false
 slug: slim-shady-year-part4
@@ -615,3 +615,5 @@ magicians turned out to be unable to help me, I could cut my trip short, return 
 There's the old truism on the importance of goals that serve as powerful propellants. My goal was to
 run 10km run and ride 100km on a bike, pain-free. When a few friends asked me why not just recover,
 I would joke I had a genetic mutation that made the word "just" absent from vocabulary.
+
+_Thanks to Nada Amin for reading my drafts._
