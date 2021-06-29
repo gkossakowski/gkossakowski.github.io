@@ -516,7 +516,7 @@ an offer in hand.
 The other problem to solve was getting the green light. I expected people at Stripe to be skeptical,
 and I knew what would lower my chances: a vague talk. In a hyper-growth company, everyone is
 incredibly busy, having more things to do than hours within the day. The last thing anyone wants is
-to deal with us a homework-free request. So I first reached out to dr Wagner in Munich to discuss
+to deal with a homework-free request. So I first reached out to dr Wagner in Munich to discuss
 the move. I floated the idea before in person, so I made it more concrete: I'd come for three
 months, intensely focus on the recovery, and return to San Francisco healthy and kicking. I was
 explicitly asking for open dates, starting as soon as possible. The response "there's no need for
