@@ -499,7 +499,7 @@ When we met to talk about what I had learned in the medical wilderness, I said t
 advice was to internalize Ben Horowitz's "control your own psychology." It was very likely the
 recovery would be longer, bumpier, and more lonely than any healthy person would anticipate. The
 other advice was to remind oneself that the health investment is a long-term proposition. I also
-mentioned I wanted to try the Munich people in full swing, but I worried about personal finances.
+mentioned I wanted to give the Munich crew a full swing, but I worried about personal finances.
 Mike said he would like to see the other end of my story and offered a cheque. I was taken aback. My
 cultural upbringing (in Central Europe) doesn't have a concept of taking stranger's money. On the
 other hand, I knew I'm talking to a highly thoughtful individual, so the offer wasn't impulsive. He
