@@ -371,7 +371,7 @@ instead o asking for open slots, I would hand my dates, and ask for an opening.
 While hashing out the details of my surgery in Warsaw with the doctor, I asked when is the earliest
 time I could fly after the surgery and explained I had a genuinely urgent business in Munich. He
 recommended waiting four days which I didn't have. After a bit back and forth, we agreed I would
-acknowledge I'm at the edge of sound risk-taking, I would wait two days before I go. I would have to
+acknowledge I'm at the edge of a sound risk-taking, I would go in two days. I would have to
 be extremely careful, avoid prolonged sitting and any sudden or straining moves.  We also talked
 about my return trip to California, which is roughly 12 hours of sitting. The doctor was horrified
 at the prospect and said I should really not fly for at least two weeks after the surgery.
