@@ -278,8 +278,8 @@ finding my way on my own through a side door.
 
 I booked the flight to Munich and told Fabienne about it the next day. She asked me what my plan
 was, and I said I didn't know yet. I just knew I need to find a way to see the doctor before I fly
-to California. And I said it's not. I was sure he can help me, but I wanted to avoid second thoughts
-and what-if scenarios. In fact, I was applying the [Regret Minimization
+to California. I contined by saing I wasn't sure he can help me, but I wanted to avoid second
+thoughts and what-if scenarios. In fact, I was applying the [Regret Minimization
 Framework](https://sahilbloom.substack.com/p/the-bezos-regret-minimization-framework).
 
 So what was my plan? It had two legs. One was to find a way to get an introduction to the doctor.
