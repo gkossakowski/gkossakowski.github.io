@@ -13,6 +13,9 @@ description: Sell it like you mean it
 socialimage: "/static/uploads/2020-01-09-death-star-2-social-image.jpeg"
 ---
 
+> "I'm a hustler, baby; I sell water to a well!"<br>
+> ― Jay-Z
+
 **For context, see parts [one](slim-shady-year-part1), [two](slim-shady-year-part2), [three](slim-shady-year-part3) I wrote before.**
 
 ## Unfaithful
@@ -21,7 +24,7 @@ For the first appointment with Dr Wagner (a reminder: not a real name), I flew f
 Munich in early November 2018. I was in equal parts curious and skeptical of my trip. I was
 following my physical therapist's recommendation to visit Munich, but she knew the chief doctor
 through his book only. As I was researching the clinic ahead of my arrival, I had two goals: try to
-form an opinion of my own and figure out intelligent questions to ask once I arrive in Munich to
+form an opinion of my own and figure out intelligent questions to ask once I arrive in Germany to
 patch up the inherent uncertainty of my evaluation.
 
 Through personal intelligence work, I discovered an impressive array of famous people that had their
@@ -216,9 +219,10 @@ systems programming to AI brought an unexpected benefit. Unlike most machine lea
 could rip the lid off the apparatus underneath and rearrange it the way I needed it. It came as a
 superpower later on and confirmed the old maxim that often, the outsized value sits at the seams of
 fields. More practically, I nanosized my ego. There was no grunt work I wouldn't take at the time.
-Broken big data job? Greg is on it. A spaghetti SQL query nobody remembered how it came about? My
-archeologist hat was on. Whatever moved important projects forward. I knew that after making a risky
-move not from position of glory, I had to play personal defense (didn't come easy).
+A broken big data job? Gkk is on it. A spaghetti SQL query nobody remembered how it came about?
+My archeologist hat was on. Whatever moved important projects forward. I knew that after making
+a controversial move, not from a position of glory, I had to play on personal defense (didn't come
+naturally).
 
 Now, back to my health. As I mentioned before, I decided to opt for the maximum level of
 transparency, so I told my manager that my big bet on Basel didn't work out, and I came back feeling
@@ -300,11 +304,11 @@ chiropractors, and doctors by this point in my life. Noone had as quick and as d
 human body. Yet, if you check a Wikipedia page on osteopathy, you'll see that it's considered
 pseudo-medicine. It doesn't work according to randomized controlled trials.
 
-As I mentioned before, an essiential aspect of navigating a highly complex medical condition is to
+As I mentioned before, an essential aspect of navigating a highly complex medical condition is to
 remain self-aware. I tried everything I could in the department of conventional medicine, and I
 decided to see if there's something to be found on paths less traveled. I didn't know much about the
-history of medicine. I was a student of history of technology, and every time anyone had an original
-idea, there was strong pushback from the mainstream. Artists, including medical ones, never look
+history of medicine. I was a student of the history of technology, and every time anyone had an original
+idea, it was met with a strong pushback from the mainstream. Artists, including medical ones, never look
 good in randomized controlled trials. Still, you need some way to decide whether a particular venue
 you're exploring has the potential for the treasure down the road. Over time, I developed a method
 of sizing people. Whenever I'd meet someone who was supposed to help me, I'd pay attention to two
