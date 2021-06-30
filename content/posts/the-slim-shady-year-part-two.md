@@ -9,7 +9,7 @@ tags:
 - recovery
 - sports medicine
 - health
-description: Pelgrimade to the (in?)famous chiropractor
+description: Pilgrimage to the (in?)famous chiropractor
 socialImage: "2020-01-09-death-star-2-social-image.jpeg"
 
 ---

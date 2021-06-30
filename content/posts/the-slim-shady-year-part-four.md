@@ -260,7 +260,7 @@ points on my skin that, when pressed, would hurt unexpectedly hard. These were o
 found.
 
 Remembering JP Meersseman and Michel from Zurich, who both used similar methods and claimed quick
-diagnosis, I remained deep skeptic's mode. Let's see the complete list of identified blockages I
+diagnosis, I remained unconvinced. Let's see the complete list of identified blockages I
 saved in my notebook:
 
 - blockage in my ankle
@@ -433,7 +433,7 @@ interact or work under a single roof. That's fine for industrial-style healthcar
 cruciate ligament - frequently injured ligament in the knee) tears but not for artisanal issues like
 mine.
 
-I was kneck-deep in worries. If Yann was right, would that mean I have to move to Munich? The
+I was neck-deep in worries. If Yann was right, would that mean I have to move to Munich? The
 previously lurking concern took priority: I barely returned from my sabbatical in Basel. How could I
 explain this at my workplace? I pressed harder and asked Yann if anybody else local I could talk to,
 even if it's a long shot. Yann gave me the phone number of his physical therapy friend that worked
