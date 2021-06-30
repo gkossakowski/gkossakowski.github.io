@@ -10,7 +10,7 @@ tags:
 - sports medicine
 - health
 description: Pelgrimade to the (in?)famous chiropractor
-socialimage: "/static/uploads/2020-01-09-death-star-2-social-image.jpeg"
+socialImage: "2020-01-09-death-star-2-social-image.jpeg"
 
 ---
 

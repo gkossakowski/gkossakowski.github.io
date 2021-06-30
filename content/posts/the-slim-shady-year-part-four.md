@@ -10,7 +10,7 @@ tags:
 - sports medicine
 - health
 description: Sell it like you mean it
-socialimage: "/static/uploads/2020-01-09-death-star-2-social-image.jpeg"
+socialImage: "2020-01-09-death-star-2-social-image.jpeg"
 ---
 
 > "I'm a hustler, baby; I sell water to a well!"<br>

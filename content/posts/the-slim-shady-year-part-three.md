@@ -10,7 +10,7 @@ tags:
 - sports medicine
 - health
 description: Diagnosing muscle's operating system.
-socialimage: "/static/uploads/2020-01-09-death-star-2-social-image.jpeg"
+socialImage: "2020-01-09-death-star-2-social-image.jpeg"
 ---
 
 > Next time you see a brother down<br>
