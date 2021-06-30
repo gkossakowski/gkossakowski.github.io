@@ -20,56 +20,54 @@ socialimage: "/static/uploads/2020-01-09-death-star-2-social-image.jpeg"
 
 ## Unfaithful
 
-For the first appointment with Dr Wagner (a reminder: not a real name), I flew from San Francisco to
-Munich in early November 2018. I was in equal parts curious and skeptical of my trip. I was
-following my physical therapist's recommendation to visit Munich, but she knew the chief doctor
-through his book only. As I was researching the clinic ahead of my arrival, I had two goals: try to
-form an opinion of my own and figure out intelligent questions to ask once I arrive in Germany to
-patch up the inherent uncertainty of my evaluation.
+For my first appointment with Dr Wagner (a reminder: not a real name), I flew from San Francisco to
+Munich. It was early November 2018. I was in equal parts curious and skeptical of taking my trip. I
+was following my physical therapist's recommendation to visit Munich, but she knew the chief doctor
+through his book only. As I was researching the clinic ahead of my arrival, I had two goals: form an
+opinion of my own and figure out intelligent questions to ask once I arrive in Munich to patch up
+the inherent uncertainty of my prior evaluation.
 
 Through personal intelligence work, I discovered an impressive array of famous people that had their
 treatment at the clinic. In addition to Usain Bolt I mentioned [previously](slim-shady-year-part3),
-the list includes Bono (the one from U2), Vitali Klitschko (who dominated boxing for a decade), and
-other star athletes from NFL, NBA, etc. It was hard for me to imagine all these heavyweights would
-be collectively delusional to visit that place. On the other hand, celebrities are prone to
-questionable practices. Ask Tom Cruise about Scientology.
+the list includes Bono, Vitali Klitschko (who dominated boxing for a decade), and other star
+athletes from NFL, NBA. It was hard for me to imagine all these heavyweights would be collectively
+delusional to visit that place. On the other hand, celebrities are prone to questionable beliefs.
+Ask Tom Cruise about Scientology.
 
-Why did I doubt the clinic in the first place? The same intelligence work returned hints of highly
+Why did I doubt the clinic in the first place? My intelligence work returned hints of highly
 controversial practices of the chief doctor and founder of the clinic. I found mentions of injection
 of extracts from young calf blood, rich in amino acids. I saw articles on goat blood injections. Or
-injections of shredded cockerel's comb. Yep, you're reading it right. I came across numerous
-stirrups in the medical community, accusations of doping athletes with weird practices acting as a
-cover-up. Highly accomplished doctors and scientists were calling for the exclusion of the chief
-doctor from speaking at conferences. If there was an equivalent of firewalking in the world of
-medicine, I found it - I thought to myself.
+injections of shredded cockerel's comb. Yep, you're reading it right. I came across numerous stirs
+in the medical community, accusations of doping athletes with weird practices acting as a cover-up.
+Highly accomplished doctors and scientists were calling for the exclusion of the chief doctor from
+speaking at conferences. If there was an equivalent of firewalking in the world of medicine, I found
+it - I thought to myself.
 
-Doktor Wagner called me into his office, and we started chatting. I wanted this meeting to be
+Doctor Wagner called me into his office, and we started chatting. I wanted this meeting to be
 efficient, so I rehearsed both short and long versions of my medical history. What I tried so far,
 how my muscle tension was gradually and mysteriously getting worse. I came ultra prepared with
-notebooks detailing my tension scores, an old CD with MRIs, etc. To my surprise, the doctor wasn't
-interested in looking at anything I brought. After a short greeting, our conversation went like
-this:
+notebooks detailing my tension scores, an old CD with MRIs, and any material I thought was relevant.
+To my surprise, the doctor wasn't interested in looking at anything I brought. After a short
+greeting, our conversation went like this:
 
 - I know what you have. We specialize in this problem here, and I think we can help you.
 
 I don't think I succeeded in hiding how taken aback I was. We continued:
 
-- But doc, we just met, and we didn't even go over my diagnostics. We just talked, and you glanced
-  over my posture.
+- But doctor, we just met, and we didn't even go over my diagnostics. We just talked, and you
+  glanced over my posture.
 - I know. You're not the first one to be surprised. We have experience in cases like yours, but
   let's take an X-ray to make sure I got it right. We have a high-quality X-ray in the room next
   door. Once you get the results, come back to see me.
 
 I was increasingly confused. How come this doctor could know when others, often called world-class,
-couldn't make any progress on the diagnosis? And what X-ray has to do with it where you can see the
-bone structure that I knew was fine, and I had a muscle problem. Everyone else was asking for an
-MRI. None of it made any sense to me. I was fighting the urge to jump to conclusions about my trip
-just yet.
+couldn't make any progress on the diagnosis? And what would be the point of an X-ray? I knew my bone
+structure was fine and I had a muscle problem. Everyone else was asking for an MRI. None of it made
+any sense to me. I was fighting the urge to jump to conclusions about my trip just yet.
 
-I went to the X-ray room and had one taken for me twice. The first picture covered my whole body
-standing with the arms up, a pose similar to what they ask you at the airport security scanning
-machine. The second one was also in the standing position, but the X-ray picture zoomed onto my
-pelvis.
+I went to the X-ray room and had two scans taken. The first image covered my whole body standing
+with the arms up, a pose similar to what they ask you at the airport security scanning machine. The
+second one was also in the standing position, but the X-ray zoomed onto my pelvis.
 
 I returned to the doctor's room, and we resumed our conversation:
 
@@ -77,7 +75,7 @@ I returned to the doctor's room, and we resumed our conversation:
   real culprit. Do you feel any pain in the lower back?
 
 I thought about it for a second, and I remembered that I had strong tension in my *upper* back that
-Fabienne was battling within Basel. I didn't recall mention of lower back problems, and my
+Fabienne was battling in Basel. I didn't recall any mention of lower back problems, and my
 confidence in the value of my visit lowered a notch again.
 
 - I recall upper back problems but not lower ones.
@@ -86,25 +84,25 @@ confidence in the value of my visit lowered a notch again.
 - Ok, but I have pain in my leg. In my adductor.
 - These two issues are connected. Lay down, and I'll make an injection that's going to help you.
 
-At that moment, I panicked. I recalled all controversies I have read about, and our conversation
-didn't dispel any of my concerns. Am I initiated to a weird cult? I was thinking to myself. The
-doctor explained that my sacroiliac joint (SI - where the tailbone connects with the pelvis) is
+At that moment, I panicked. I recalled the controversies I read about, and our conversation didn't
+dispel any of my concerns. Am I initiated to a weird cult? I was thinking to myself. The doctor
+explained that my sacroiliac joint (SI joint - where the tailbone connects with the pelvis) is
 stuck, and it's one of the origins of my problems. I have many more, but we'll focus on that one. He
 went on:
 
-- I'll make a small injection into SI with something that acts like a lubricant and will get your
-  joint unstuck. It will make your pain and tension in the adductor go away temporarily. Just for a
-  few minutes, so don't expect miracles.
+- I'll make a small injection into SI joint with something that acts like a lubricant and will get
+  your joint unstuck. It will make your pain and tension in the adductor go away temporarily. Just
+  for a few minutes, so don't expect miracles.
 - How safe is it? I read some coverage on the internet - I interjected as diplomatically as I could
 
 In my head, I didn't believe it's going to help me, but I was worried about the downside. Until I
-let something I don't understand injected into my body, my visit is fully reversible in
+let something I don't understand get injected into my body, my visit is fully reversible in
 consequences.
 
 - It's safe. We've been using these injections for many years. They're not legal in the US, so many
   Americans come to us.
 
-It was such a comically poor reassurance that I thought a joke was hiding in plain sight. Only over
+It was such a comically lousy reassurance that I thought a joke was hiding in plain sight. Only over
 many interactions ensued, I appreciated how the true experts sometimes are the worst marketing
 people on the planet. After covering a few more safety questions and hearing that these injections
 are, in fact, officially approved in Germany, I decided to give it ago. Still, I maintained my
@@ -116,28 +114,28 @@ genuine pain. After the shots, the doctor gently massaged the area around my tai
 to turn around and lay on my back. Less than a minute later, he started moving my right leg, where I
 had tension ranging from mild to severe for months on end. As the pain from the injection was
 easing, I realized my leg was moving freely. Bending up (knee towards chest) and down was
-effortless, and I had a full range of motion! A full range of motion. I haven't experienced it in
+effortless, and I had a full range of motion! A full range of motion. I hadn't experienced it in
 more than a year.
 
-It took a couple more moves to fully believe the injection's drama didn't fool me and the effect was
-real. I almost jumped off the examination table in excitement. It felt like someone had just removed
-the concrete shell wrapping my leg. It's hard for me to put into words how it felt. It was a
-miracle. And I do recognize the boosting effect of low expectations going in.
+It took a couple more moves to fully believe the drama of the injection didn't fool me and the
+effect was real. I almost jumped off the examination table in excitement. It felt like someone had
+just removed the concrete shell wrapping my leg. It's hard for me to put into words how it felt. It
+was a miracle. And I do recognize the boosting effect of low expectations going in.
 
 So I was both ecstatic and confused. We injected something into a joint I didn't even know I had in
 my body, and the adductor muscle lost its tension. None of it made any sense to me whatsoever.
 
 I asked the doctor if there's a simple explanation of what just happened. He went on to say that the
-immobility in my SI joint stressed the lower back, specifically reduced the mobility in the lower
-spine as all these pieces are connected. The real problem was my lower back, where the nerves branch
-out of the spinal cord and reach their destination. Around that area, my nerve was slightly
+immobility in my SI joint stressed the lower back. Specifically, it reduced the mobility in the
+lower spine as all these pieces are connected. The real problem was my lower back, where the nerves
+branch out of the spinal cord and reach their destination. Around that area, my nerve was slightly
 compressed, and that caused the tension. He immediately stressed that my discs are in great shape,
 so this is not a herniated disc problem that other doctors checked for when they looked at my MRI.
 
 This explanation generated a torrent of follow-up questions. The two most pressing on my mind were
 how did it get started in the first place. How is it connected, if at all, to the semimembranosus
 muscle issues that I went to Basel to fix? And if the seemingly correct diagnosis was so easy to
-arrive, how the hell has everyone else had missed it?
+arrive at, how the hell had everyone else had missed it?
 
 My time was up for the initial appointment, so I had to leave these questions unanswered and focus
 on the next steps. The doctor mentioned that I had muscle malfunction for too long, and there are
@@ -145,14 +143,14 @@ many more complications we'll need to correct. The higher-order bit for me was i
 extraordinary effort into treatment, could I get back to full fitness. He responded simply by saying
 that he thinks the chance for success is 80–90%. From his experience, most people with problems
 similar to mine recover. There's the 10% of mystery cases where nobody at the clinic found a way to
-influence reasons they do not understand. When I asked how long would it take, he said he wasn't
+influence for reasons they do not understand. When I asked how long would it take, he said he wasn't
 sure, but he hoped it would be fixed in a couple of months, probably by the summer (it was
 November).
 
 If you, reading this, are thinking I was quickly becoming a convert, then no. But it was the first
 time somebody demonstrated an ability to influence my condition in a significant way in months. All
 my other attempts were closer to me desperately wanting to see a change than really experiencing it.
-To use a reddit crypto term, my past tries ran on hopium.
+To borrow a reddit crypto term, my past tries ran on hopium.
 
 Back to planning. We agreed I would come back for a visit the next day, then return in a couple of
 weeks and stay a bit longer. I would receive a more comprehensive set of injections, and I would
@@ -161,8 +159,10 @@ get a meeting with a physio and athletic trainer. It was a fully integrated clin
 the full service the next time.
 
 I can't stress it enough: I was genuinely astonished by the whole experience. Maybe this place was
-special, but what could explain it? To my great disappointment, the tension started returning about
-an hour after the injections, according to the doctor's warning.
+special, but what could explain it?
+
+To my great disappointment, the tension started returning about an hour after the injections, as
+warned.
 
 ## The jiggling
 
@@ -176,30 +176,29 @@ If they asked me whether I just got doped, I couldn't tell. All I could say is t
 happened, it involved needles, and it seemed to be working. They listened in awe and said they would
 love to hear more updates on this story. I can tell you that it was infinitely more entertaining to
 listen to it than to live through it. And then they told me they had a perfect recommendation for a
-movie to watch on my way back to the Bay Area. It was the 2017 Best Documentary Oscar winner, the
-Icarus by Bryan Fogel. The main character is Fogel himself, who chronicles his exploration of
-voluntary doping to win an amateur cycling race. My friends knew I was an avid biker pre muscle
-malfunction saga, and the doping topic came up in our chat only half-jokingly. I followed the
-recommendation and want to pass it on now: go watch it. It has the right mix of an appealing
-premise, pure fun, and a sudden bent of the story that elevates the movie to the Oscar level. For
-me, it was triggering a special kind of emotion: I wondered how much the story of illegal vials I
-was watching is a story of my own, but I didn't know yet.
+movie to watch on my way back to the Bay Area. It was the 2017 Best Documentary Oscar winner, Icarus
+by Bryan Fogel. The main character is Fogel himself, who chronicles his exploration of voluntary
+doping to win an amateur cycling race. My friends knew I was an avid biker pre muscle malfunction
+saga, and the doping topic came up in our chat only half-jokingly. I followed the recommendation and
+want to pass it on now: go watch it. It has the right mix of an appealing premise, pure fun, and a
+sudden bent of the story that elevates the movie to the Oscar level. For me, it was triggering a
+special kind of emotion: I wondered how much the story of illegal vials I was watching is a story of
+my own, but I didn't know yet.
 
-I returned to San Francisco and jotted down in my notebook that the adductor tension returned in
-full force. The note had me guessing the tension comeback was from sitting on the plane for 11
-hours. I was disappointed and in war mode. I immediately started thinking of how I can arrange my
-work life for the return trip to Munich. I thought about how transparent I should be with people at
-work, and I decided to opt for full maximal transparency. In many ways, my story was the kind of
-crazy that people in Silicon Valley love hearing: I was taking bold risks for something worth it. I
-was playing to win.
+I returned to San Francisco and the adductor tension returned in full force. Based on my notes from
+that time, I suspected the tension came from sitting on a plane for 11 hours. I was disappointed and
+in war mode. I immediately started thinking of how I can arrange my work life for the return trip to
+Munich. I thought about how transparent I should be with people at work, and I decided to opt for
+maximal transparency. In many ways, my story was the kind of crazy that people in Silicon Valley
+love hearing: I was taking bold risks for something worth it. I was playing to win.
 
 A few days into my work life, I realized that my three-month-long sabbatical in Basel introduced a
 shift in office politics. I don't want to go too much into details of it, but at the time, I was
-leading a developer productivity team that landed, on what I thought, the wrong side of history. If
-there was a lesson to share, it is that in a fast-growing company, being priority number two equals
-to being a non-priority. I figured I had to change something, and I had this fascination with deep
-learning. I wanted to check whether the AI hype was real. So I decided to switch teams and work on
-machine learning applications. The catch: I had no idea about machine learning. I suspect, if
+leading a developer productivity team that landed on what I thought was the wrong side of history.
+If there was a lesson to share, it is that in a fast-growing company, being priority number two
+equals to being a non-priority. I figured I had to change something, and I had this fascination with
+deep learning. I wanted to check whether the AI hype was real. So I decided to switch teams and work
+on machine learning applications. The catch: I had no idea about machine learning. I suspect, if
 anybody at work who had any say in my decision realized how little I knew about ML, I would never
 get the transfer approved. So I kept it to myself. Why would I want to make a risky move into an
 area I didn't know and stack up against personal challenges? The reason was twofold. My private life
@@ -226,7 +225,7 @@ naturally).
 
 Now, back to my health. As I mentioned before, I decided to opt for the maximum level of
 transparency, so I told my manager that my big bet on Basel didn't work out, and I came back feeling
-worse. I had a plan b, and it involved this shredded-in-mystery clinic that treated superstars from
+worse. I had a plan b, and it involved this shrouded-in-mystery clinic that treated superstars from
 around the world, and I was lucky to get in. I was trying to sell this as an adventure as much as
 possible because I felt I needed the people who decided my fate to be strangely excited about the
 story. I wanted the people to think, "man, I admire this guy's perseverance," over "this guy is a
@@ -239,8 +238,8 @@ assessment, he said my mobility did deteriorate compared to when I left his offi
 but it was still a slight improvement over when I came first. I asked about the injections, and in
 his lighthearted way, he dodged my attempts to learn more. I knew I was in a losing position since
 our meeting time was limited. I concurred to receive the recommended cocktail and keep my questions
-for the next time. In my notes from that day, I wrote that I received injections in my hamstring,
-and I rated my pain at 5/10; I had small contractions in the muscle due to shots.
+for the next time. My notes from that day said I received injections in my hamstring, and I rated my
+pain at 5/10; I had small contractions in the muscle due to shots.
 
 My work deal was that I would continue working remotely during my trips, so I dragged myself slowly
 to the public state library in Munich, suffering from pain as I walked. As an aside, people tend to
@@ -265,16 +264,14 @@ diagnosis, I remained deep skeptic's mode. Let's see the complete list of identi
 saved in my notebook:
 
 - blockage in my ankle
-
 - blockage in my vein right below my knew (at the back of my knee)
 - blockage in my hips
-- blockage in my back, both lower and upper one
+- blockage in my back, both lower and upper
 
-_For medically inclined: I wrote down in my notes I had blockages L4 and L5 in the lumbar spine area
-and C4 and C5 in the cervical spine area._
+_For medically inclined: I wrote down in my notes I had blockages L4 and L5 in the lumbar spine area and C4 and C5 in the cervical spine area._
 
 Overall, Dirk found 13(!) specific points to work on. Then we proceeded with manipulations similar
-to what a chiropractor would perform - unblocking my ankle through a very gentle pull resulted in
+to what a chiropractor would perform - unblocking my ankle through a very gentle pull resulted in
 freeing my calf. Literally, I could feel that all the tension in my calf was easing instantly.
 
 Unblocking the rest of the points resulted in a better hip position, and amazingly, in better
@@ -282,8 +279,8 @@ overall body position. I could feel the effect immediately too. And it was stron
 sense of balance was a little off. The tension in my adductor eased too, but the change wasn't as
 noticeable.
 
-The overall assessment was that I had a domino effect from one problem - adductor tension - 
-triggering a whole chain of compensations and muscle strains in my body. Specifically, my
+The overall assessment was that I had a domino effect from one problem - adductor
+tension - triggering a whole chain of compensations and muscle strains in my body. Specifically, my
 right adductor tension was causing my body to compensate with hip rotation. I was "giving in" to the
 adductor's pull by rotating right hip forward. It was an unconscious reaction and persisted as I was
 walking. That, in turn, induced tension in my lower back *muscles* surrounding the lumbar spine
@@ -304,12 +301,12 @@ chiropractors, and doctors by this point in my life. Noone had as quick and as d
 human body. Yet, if you check a Wikipedia page on osteopathy, you'll see that it's considered
 pseudo-medicine. It doesn't work according to randomized controlled trials.
 
-As I mentioned before, an essential aspect of navigating a highly complex medical condition is to
+As I mentioned before, an essiential aspect of navigating a highly complex medical condition is to
 remain self-aware. I tried everything I could in the department of conventional medicine, and I
 decided to see if there's something to be found on paths less traveled. I didn't know much about the
-history of medicine. I was a student of the history of technology, and every time anyone had an original
-idea, it was met with a strong pushback from the mainstream. Artists, including medical ones, never look
-good in randomized controlled trials. Still, you need some way to decide whether a particular venue
+history of medicine. I was a student of history of technology, and every time anyone had an original
+idea, there was strong pushback from the mainstream. Artists, including medical ones, never look
+good in randomized controlled trials. Still, you need some way to decide whether a particular avenue
 you're exploring has the potential for the treasure down the road. Over time, I developed a method
 of sizing people. Whenever I'd meet someone who was supposed to help me, I'd pay attention to two
 things:
@@ -341,8 +338,8 @@ exercises were slow, methodological, and only from the outside looked easy. The 
 will reoccur throughout my stories, and I think that might be the keyword you're looking for when
 dealing with a complex medical condition.
 
-Before leaving Munich, I chatted with dr Wagner about the next steps. He felt confident my condition
-is reversible but will require diligent work on my end. I felt like we're closer to an accurate
+Before leaving Munich, I chatted with Dr Wagner about the next steps. He felt confident my condition
+is reversible but will require diligent work on my end. I felt like we were closer to an accurate
 diagnosis, even if I didn't fully understand it yet. We agreed that I would commute from San
 Francisco to Munich every 4–6 weeks, and I would find someone local in the Bay Area with whom I
 would follow the athletic training protocols I would receive on each visit. It sounded like a brutal
@@ -360,9 +357,9 @@ so slightly mislocated ankle. The correct conclusion is: work on your stability.
 reaction I received "you need to foam roll your calf". Doh, if I haven't tried that nine months and
 six doctors earlier.
 
-Some people were happy to follow whatever plan I had because they billed by an hour anyway. But, in
-reality, the craftsmanship of what I needed was above their heads. I wanted to find a match as
-quickly as possible, so I developed a method. I would schedule as many different people per week,
+Some people were happy to follow whatever plan I had because they billed by an hour anyway. But in
+reality the craftsmanship of what I needed was above their heads. I wanted to find a match as
+quickly as possible, so I developed a system. I would schedule as many different people per week,
 and I simplified my pitch. I skipped talking about the ready program but focused on detail about
 pain in my piriformis muscle (it's a muscle in your glutes essential in walking and running). If I
 sensed surprise or confusion on the therapist's face, I would apologize and say the session was over
@@ -376,13 +373,12 @@ idea of commuting between San Francisco and Munich. We talked about the backstor
 what I'm looking for: meticulous execution of somebody's else plan. I wanted him to help me follow
 the exercises and watch my form, which was the most critical aspect of my training regime. The
 outcome we were looking for was a subtle reprogramming of my muscle function - reverting the
-accumulated miscoordination that inspired tension. Brandon and I got to work in earnest.
-
-We met 2–3 times a week and followed the program from Munich. For the first few weeks, everything
-seemed to be heading in the right direction. Until one day, during my exercises, something went off,
-and the tension started creeping in. Specifically, it seemed like we messed up hip thrusters. I left
-that training session limping from an adductor tension and with a strange feeling in my lower back.
-I returned a few days later, but the tension persisted, and we found no way to reduce it. We had to
+accumulated miscoordination that inspired tension. Brandon and I got to work in earnest. We met 2–3
+times a week and followed the program from Munich. For the first few weeks, everything seemed to be
+heading in the right direction. Until one day, during my exercises, something went off, and the
+tension started creeping in. Specifically, it seemed like we messed up hip thrusters. I left that
+training session limping from an adductor tension and with a strange feeling in my lower back. I
+returned a few days later, but the tension persisted, and we found no way to reduce it. We had to
 call it a defeat.
 
 Fortunately, I had a trip to Munich coming up two weeks later, in late February of 2019, so we could
@@ -392,7 +388,7 @@ An hour later, I was limping so hard that I couldn't drag my luggage to the hote
 staff's help. Once I got to my room, I lay down on a bed, wept, and thought to myself, "it sucks to
 be me." I was in my early thirties, and I couldn't walk. The next day my friends from Zurich arrived
 for the weekend to see a Christoph Niemann exhibition and hang out together. I barely dragged myself
-to the museum, and then I had to excuse myself and go back to the hotel. They come to see me, and I
+to the museum, and then I had to excuse myself and go back to the hotel. They came to see me, and I
 couldn't even keep the company. It sucked to be around me.
 
 I visited the clinic right after the weekend. Dr Wagner and the athletic trainer's diagnosis: I did
@@ -411,10 +407,10 @@ that an emergency hopping to another continent on every slip was out of the ques
 track, I needed a local person to fix regressions. Brandon was a great trainer, but I needed a
 physical therapist. A good friend of mine shared contact with a mysterious physical therapist named
 Yann that used to work with Israeli and Georgian national soccer teams but likes to remain low
-profile. He came with glowing reviews of San Francisco locals who worked with him. We've met with
-Yann a week after.
+profile. He came with glowing reviews from San Francisco locals who worked with him. We met with
+Yann a week later.
 
-Following a quick chat, Yann moved onto tactile inspection of my muscles. It's been only over a week
+After a quick chat, Yann moved onto tactile inspection of my muscles. It had been only over a week
 since I returned from Munich, but my adductor tension was back in full force. It was painful, and at
 the same time, it was easier for Yann to understand my issue. He quickly pointed out that I had
 inflammation around the adductor's attachment near my crotch (apologies for graphic detail); the
@@ -437,12 +433,12 @@ interact or work under a single roof. That's fine for industrial-style healthcar
 cruciate ligament - frequently injured ligament in the knee) tears but not for artisanal issues like
 mine.
 
-I was kneck-deep in worries. If Yann was right, would that mean I have to move to Munich? I barely
-returned from my sabbatical in Basel. How could I explain this at my workplace? I pressed harder and
-asked Yann if anybody else local I could talk to, even if it's a long shot. Yann gave me the phone
-number of his physical therapy friend that worked with San Francisco's 49ers - an NFL team. I called
-that guy the next day, and after a brief intro, he said that Yann is the local special projects
-person, and if he was out, it's over.
+I was kneck-deep in worries. If Yann was right, would that mean I have to move to Munich? The
+previously lurking concern took priority: I barely returned from my sabbatical in Basel. How could I
+explain this at my workplace? I pressed harder and asked Yann if anybody else local I could talk to,
+even if it's a long shot. Yann gave me the phone number of his physical therapy friend that worked
+with San Francisco's 49ers - an NFL team. I called that guy the next day, and after a brief intro,
+he said that Yann is the local special projects person, and if he was out, it's over.
 
 If you got that far in reading my story, you might guess what was next: I didn't take no as an
 answer just yet. Before I rule out America as a whole, I decided that I will make a list of five
@@ -451,7 +447,7 @@ was on the phone with people from Los Angeles, Rhode Island, and Connecticut. De
 claims, I found people I spoke with to be overwhelmed with my story. Two of the places suggested I
 should visit them without much justification. By this point, I acquired enough puzzle pieces of my
 condition to triage unfruitful directions more aggressively. I called back both clinics and asked a
-simple question: do they have an experience of issues in the lower back manifesting as a leg muscle
+simple question: do they have an experience of issues in the lower back manifesting as leg muscle
 tension?. They went into a defensive "we don't do medical consultations over the phone." I wasn't
 asking for consultation. I was inquiring about a piece of particular knowledge. I instantly knew
 that visiting them would be a waste of time. And I had no time to waste.
@@ -499,24 +495,25 @@ When we met to talk about what I had learned in the medical wilderness, I said t
 advice was to internalize Ben Horowitz's "control your own psychology." It was very likely the
 recovery would be longer, bumpier, and more lonely than any healthy person would anticipate. The
 other advice was to remind oneself that the health investment is a long-term proposition. I also
-mentioned I wanted to give the Munich crew a full swing, but I worried about personal finances.
+mentioned I wanted to try the Munich people in full swing, but I worried about personal finances.
 Mike said he would like to see the other end of my story and offered a cheque. I was taken aback. My
-cultural upbringing (in Central Europe) doesn't have a concept of taking stranger's money. On the
-other hand, I knew I'm talking to a highly thoughtful individual, so the offer wasn't impulsive. He
-sensed my hesitation and told me to understand it as a long-term investment as he thought I'd do
-something impactful once health was off my plate. I said I would treat this offer as a last resort.
-I ended up not taking the money; the total cost of treatment was lower than I had anticipated.
-Still, the offer was vital in unblocking me psychologically: money wasn't an issue anymore. I could
-go all in and move to Munich if I got the permission. I took a note to myself: if I ever find myself
-at the other end of the conversation and hear out a smart person with an ambitious goal, I will have
-an offer in hand.
+cultural upbringing (in Central Europe) doesn't have a concept of accepting stranger's money.
+
+On the other hand, I knew I was talking to a highly thoughtful individual, so the offer wasn't
+impulsive. He sensed my hesitation and told me to understand it as a long-term investment as he
+thought I'd do something impactful once health was off my plate. I said I would treat this offer as
+a last resort. I ended up not taking the money; the total cost of treatment was lower than I had
+anticipated. Still, the offer was vital in unblocking me psychologically: money wasn't an issue
+anymore. I could go all in and move to Munich if I got the permission. I took a note to myself: if I
+ever find myself at the other end of the conversation and hear out a smart person with an ambitious
+goal, I will have an offer in hand.
 
 ## Sell it as you mean it
 
 The other problem to solve was getting the green light. I expected people at Stripe to be skeptical,
-and I knew what would lower my chances: a vague talk. In a hyper-growth company, everyone is
+and I knew what would lower my chances: vague talk. In a hyper-growth company, everyone is
 incredibly busy, having more things to do than hours within the day. The last thing anyone wants is
-to deal with a homework-free request. So I first reached out to dr Wagner in Munich to discuss
+to deal with us a homework-free request. So I first reached out to Dr Wagner in Munich to discuss
 the move. I floated the idea before in person, so I made it more concrete: I'd come for three
 months, intensely focus on the recovery, and return to San Francisco healthy and kicking. I was
 explicitly asking for open dates, starting as soon as possible. The response "there's no need for
@@ -525,7 +522,9 @@ occasional visit." Deep inside, I felt there was a notch of optimism too much. I
 attachments and could deteriorate any day so much that I would weep because I couldn't drag my
 luggage to the hotel. There was no room for a leisurely pace.
 
-As I was thinking of ways to move forward, I recalled this quote:
+As I was thinking of ways to move forward, I recalled this quote by the legendary founder of
+Hollywood's legendary Creative Artists Agency:
+
 > Gentlemen, I've done many deals in my lifetime, and through that process, I've developed a
 > methodology, a way of doing things, a philosophy, if you will. Within that philosophy, I have
 > certain beliefs. I believe in artificial deadlines. I believe in playing one against the other. I
@@ -545,7 +544,7 @@ what I needed. Here's what I wrote to people in Munich:
 
 The deadline was my own; it was the earliest I think I could pull off the move. The answer arrived
 quickly: "yes, we can see you but the first appointments free are the beginning of May." A miracle
-was born.
+was born. 
 
 You might wonder how come I turned around pretty clear "no" I got the first two times? I learned
 about this months later during a training session in Munich, once the stranger's distance wore off.
@@ -553,12 +552,12 @@ I heard, "yes, we were very skeptical of you coming, but your company told you t
 sounded serious about it." And then that person continued, "We don't do that kind of extended stays,
 but we were curious how would it go, and who this crazy guy is."
 
-I smiled inside and thought it worked like intended. The quote from Collin Powell was the
-inspiration for the specific angle I picked:
+I smiled inside and thought it worked like intended. The quote from Colin Powell was the inspiration
+for the specific angle I picked:
 
 > You'll know you're a good leader when people will follow you... if only out of curiosity.
 
-Next, I needed to convince my manager that I had to move. I launched my conversation with a
+Next, I needed to convince my manager that I needed to move. I launched my conversation with a
 preamble: my only personal priority for 2019 is to recover. Tech people understand yearly goals and
 priorities. Then, I said my best bet is people in Munich, as they seem to know what they're doing.
 On my last trip, they said my case is more complex than anticipated, and I need to move to Munich
@@ -584,17 +583,17 @@ I appreciated my friend's reminder of the risk, but I was on a search for a posi
 Engineering training teaches you to stick to facts and maybe (in advanced case) systems thinking
 when making a decision. However, I believed that appealing to values is often more powerful. Where I
 worked, ambition and bias for actions were the two characteristics people valued. These two would be
-the tenants of how I would frame my request.
+the tenets of how I would frame my request.
 
 Fortunately, Stripe still had a muscle to move quickly, so I had the meeting with an executive
-scheduled soon. I repeated my pitch from the above and added that I explored other options. I used
-what I described as an exponential escalation in my search for a physical therapist: I looked in San
-Francisco, California as a state, and the US as a country. I felt this was enough of due diligence
-before making my unusual call. Lastly, I remembered to stress a simple fact: I was moving to
-optimize for a fast feedback loop and not for the hours of treatment per day - i.e., my move
-wouldn't interfere with my job. To my surprise, I got the approval on the spot. I couldn't tell
-whether an angel was watching my back or everyone was just simply too busy and wanted to get me off
-their list. To this day, I don't know.
+scheduled soon. I repeated my pitch and added that I explored other options. I used what I described
+as an exponential escalation in my search for a physical therapist: I looked in San Francisco,
+California as a state, and the US as a country. I felt this was enough of due diligence before
+making my unusual call. Lastly, I remembered to stress a simple fact: I was moving to optimize for a
+fast feedback loop and not for the hours of treatment per day - i.e., my move wouldn't interfere
+with my job. To my surprise, I got the approval on the spot. I couldn't tell whether an angel was
+watching my back or everyone was just simply too busy and wanted to get me off their list. To this
+day, I don't know.
 
 Either way, my move was written.
 
@@ -602,22 +601,23 @@ Either way, my move was written.
 
 It may seem that I was unquestionably confident about relocating to Munich. No, it wasn't an easy
 decision. Let's round it up: Munich people did seem to know _something_ about my condition and how
-to affect it, even if temporarily. However, after each visit, I've regressed very quickly, and dr
-Wagner dodged questions about my treatment each time I raised them for reasons obscure to me. It was
-also an expensive way to spend three months. Still, this seemed like the best option I had at the
-time, and the status quo equaled misery. I remembered reading this quote from Jerzy Gregorek, a
-Polish weightlifter who won The World Weightlifting Champion title four times:
+to affect it, even if temporarily. However, after each visit, I  regressed in a flash, and Dr Wagner
+dodged questions about my treatment each time I raised them for reasons obscure to me. It was also
+an expensive way to spend three months. Still, this seemed like the best option I had at the time,
+and the status quo equaled misery. I remembered reading this quote from Jerzy Gregorek, a Polish
+weightlifter who won The World Weightlifting Champion title four times:
 
 > Hard choices, easy life. Easy choices, hard life.
 
 The moment I recalled that quote, the decision had settled in my mind. It wasn't an easy choice but
 the choice to be made.
 
-Another thought that occurred to me was that I wasn't choosing certainty but optionality. If Munich
-magicians turned out to be unable to help me, I could cut my trip short, return and look elsewhere.
+Another thought that occurred to me was that I wasn't choosing certainty but optionality. If the
+Munich magicians turned out to be unable to help me, I could cut my trip short, return and look
+elsewhere.
 
 There's the old truism on the importance of goals that serve as powerful propellants. My goal was to
 run 10km run and ride 100km on a bike, pain-free. When a few friends asked me why not just recover,
 I would joke I had a genetic mutation that made the word "just" absent from vocabulary.
 
-_Thanks to Nada Amin for reading my drafts._
+_Thanks to Nada Amin and Lyn Nagara for reading my drafts._
