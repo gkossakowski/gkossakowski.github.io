@@ -41,7 +41,7 @@ injections of shredded cockerel's comb. Yep, you're reading it right. I came acr
 in the medical community, accusations of doping athletes with weird practices acting as a cover-up.
 Highly accomplished doctors and scientists were calling for the exclusion of the chief doctor from
 speaking at conferences. If there was an equivalent of firewalking in the world of medicine, I found
-it - I thought to myself.
+it - I thought to myself.
 
 Doctor Wagner called me into his office, and we started chatting. I wanted this meeting to be
 efficient, so I rehearsed both short and long versions of my medical history. What I tried so far,
@@ -105,7 +105,7 @@ consequences.
 It was such a comically lousy reassurance that I thought a joke was hiding in plain sight. Only over
 many interactions ensued, I appreciated how the true experts sometimes are the worst marketing
 people on the planet. After covering a few more safety questions and hearing that these injections
-are, in fact, officially approved in Germany, I decided to give it ago. Still, I maintained my
+are, in fact, officially approved in Germany, I decided to give it a go. Still, I maintained my
 utmost skepticism of the positive effect of these shots.
 
 I laid on my stomach and received the shots. No injections are fun, and these were particularly
@@ -585,7 +585,7 @@ when making a decision. However, I believed that appealing to values is often mo
 worked, ambition and bias for actions were the two characteristics people valued. These two would be
 the tenets of how I would frame my request.
 
-Fortunately, Stripe still had a muscle to move quickly, so I had the meeting with an executive
+Fortunately, Stripe still had a muscle to move quickly, and I had the meeting with an executive
 scheduled soon. I repeated my pitch and added that I explored other options. I used what I described
 as an exponential escalation in my search for a physical therapist: I looked in San Francisco,
 California as a state, and the US as a country. I felt this was enough of due diligence before
