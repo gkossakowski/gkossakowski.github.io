@@ -291,6 +291,16 @@ through a chain of compensations and back down through the nervous system. There
 the body would find a way out of this. Waiting it out was not a tactic. It was the critical thing
 everyone else I worked with before had missed: you need to work on all loop elements simultaneously.
 
+I can't stress enough how vital the whole body view over my condition was. Many people looked at my
+problems and noticed the rotated pelvis or the tension in the lower back. But they saw it only as a
+symptom and not as _both_ a symptom and source of my issues. Moreover, my back problem was getting
+worse while walking - the opposite of what you hear about spine health. If you had a wrong model of
+the condition as I and people I worked with had, you would perform interventions that were either
+ineffective or even actively harmful. It took me a long while to fully internalize how profound this
+detail was in solving the Engima of my muscle distress. I attribute the length to how
+counterintuitive the conclusions from the correct model were and how abset neuro-muscular view of
+sports injuries was in the mainstream medicine.
+
 Undoing all these issues would take time but most likely was doable - Dirk concluded.
 
 I left the office stunned. On the one hand, the chiropractor-like manipulations did help me. I
