@@ -30,7 +30,7 @@ Californian enthusiasm will not work".
 
 Without losing a beat, I responded from a message table:
 
-"Okey, I want to try anyway. If they ask me to play tambourine, I'll do it."
+"Okey, I want to try anyway. If they ask me to play a tambourine, I'll do it."
 
 Fabienne smiled and broke - the typical for Swiss - professional self-restraint
 and opened up slightly:
@@ -46,11 +46,11 @@ nothing was going according to plan.
 I've read once that to write well, you need to pick a good story. A good story
 will serve as a guide and a backup - even if your writing falls short of high
 aspirations, a good story still will be there to save the reader. Undoubtedly,
-my recovery from a rare and daunting condition is the best story I can tell. On
-the one hand, my whole endeavor is a two-and-a-half-year-long Marshmallow test.
-There were so many times when I thought I'm wasting my life chasing a hopeless
-goal. On the other hand, this is a tale of trekking the very edge of sports
-medicine and a relentless search for a hidden pass.
+my recovery from a rare and daunting medical condition is the best story I
+can tell. On the one hand, my whole endeavor is a two-and-a-half-year-long
+Marshmallow test. There were so many times when I thought I'm wasting my life
+chasing a hopeless goal. On the other hand, this is a tale of trekking the very
+edge of sports medicine and a relentless search for a hidden pass.
 
 When I moved to San Francisco over three years ago, I was immediately struck by
 life-advice culture, especially in the work setting. Only closer inspection
@@ -64,15 +64,16 @@ regime are comparatively easy; trusting them when they seemingly lead nowhere is
 the hard part. Building a top-notch business and dealing with a complex medical
 issue share a trait: both are highly dimensional, and there's no recipe.
 
-Being wary of thin advice, I'm writing an account first and a collection of the
-lessons-learned second. I greatly benefit from the hindsight - my extremely
+Being wary of thin advice, I'm writing an account first, and a collection of the
+lessons learned second. I greatly benefit from hindsight - my extremely
 unusual choices worked out. However, I fully recognize that a downright failure
 was as likely of an outcome. I could have as easily burned an enormous amount of
 money and people's goodwill and have nothing to show for it.
 
-I'm writing from a somewhat privileged position, even if in the depths of the
-struggle, it felt anything but a privilege. So it's a story about how not to
-screw up your privilege. It's a story of how not to punk out.
+I'm writing from a somewhat privileged position of a member of one of the most
+high-flying industries of our time. Even if it felt anything but a privilege in
+the depths of the struggle. So it's a story about how not to screw up your
+advantage. It's a story of how not to punk out.
 
 My intention is not to be brief. I'm writing how I wish somebody else told me
 everything I know now when I was running around looking for a solution or just a
