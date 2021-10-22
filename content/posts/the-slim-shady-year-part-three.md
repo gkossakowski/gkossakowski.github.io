@@ -197,8 +197,8 @@ https://a16z.com/2012/06/15/the-struggle/; it’s great.
 I listened to Ben and talked to my friends who live in Zurich about the whole situation. We went
 over my litany of things going wrong, and they wisely suggested that I take a break and we go for a
 hike together. I quickly accepted the offer. Conveniently, Swiss National Day (August 1st) was
-around the corner, and we picked it for a relatively easy hike on a ridge near Interlaken. Let share
-some views:
+around the corner, and we picked it for a relatively easy hike on a ridge near Interlaken. Let me
+share some views:
 
 ![Riggenberg view](/uploads/EF51DC06-2F13-438B-85C5-D1E29DFCC65E_1_105_c.jpeg)
 <figcaption>Down there is Riggenberg</figcaption>

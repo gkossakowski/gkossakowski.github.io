@@ -586,13 +586,13 @@ the company cover my request; there's no automatic way to approve it. The decisi
 subjective and had to be escalated to the executive level. Feeling I'm about to trek unfamiliar
 territory, I consulted a very well-versed friend in big company life. Her advice was to watch out
 for not putting myself in a position to be fired, not because someone actively wants to fire me, but
-someone who never met me in, e.g., HR would have no other choice but let me go for crossing some
-line. That advice would be eerily prescient later on.
+someone who never met me in, e.g., HR would have no other choice but let me go for unintentionally
+crossing a line. That advice would be eerily prescient later on.
 
 I appreciated my friend's reminder of the risk, but I was on a search for a positive spin.
 Engineering training teaches you to stick to facts and maybe (in advanced case) systems thinking
 when making a decision. However, I believed that appealing to values is often more powerful. Where I
-worked, ambition and bias for actions were the two characteristics people valued. These two would be
+worked, ambition and bias for action were the two characteristics people valued. These two would be
 the tenets of how I would frame my request.
 
 Fortunately, Stripe still had a muscle to move quickly, and I had the meeting with an executive
@@ -611,7 +611,7 @@ Either way, my move was written.
 
 It may seem that I was unquestionably confident about relocating to Munich. No, it wasn't an easy
 decision. Let's round it up: Munich people did seem to know _something_ about my condition and how
-to affect it, even if temporarily. However, after each visit, I  regressed in a flash, and Dr Wagner
+to affect it, even if temporarily. However, after each visit, I regressed in a flash, and Dr Wagner
 dodged questions about my treatment each time I raised them for reasons obscure to me. It was also
 an expensive way to spend three months. Still, this seemed like the best option I had at the time,
 and the status quo equaled misery. I remembered reading this quote from Jerzy Gregorek, a Polish

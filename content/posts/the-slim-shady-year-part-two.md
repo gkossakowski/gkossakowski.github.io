@@ -39,7 +39,7 @@ Back to my trip to Como. I've arrived in this cozy, sun-drenched town in Norther
 
 ![](/uploads/dee43902-a317-404d-9068-2a6463a6b377_1_105_c.jpeg)
 
-Unexpectedly, the sight moved me deeply. An all-in effort to recover is fundamentally a very lonely journey, and the deserted red rose was a perfect metaphor for my feelings. That picture became one of my strongest memories from my Como pilgrimages.
+Unexpectedly, this sight moved me inside. An all-in effort to recover is fundamentally a very lonely journey, and the deserted red rose was a perfect metaphor for my feelings. That picture became one of my strongest memories from my Como pilgrimages.
 
 The appointment at Meersseman's clinic consisted of three parts: a general admission interview, a posture+gait examination, and a half-an-hour slot with JP Meersseman himself. To cut it to the chase, Meersseman formulated the diagnosis instantly upon seeing me and the results of my posture examination. The verdict: my five-year-old jaw joint (TMJ) injury from a nearly deadly ski accident is causing my leg muscles to tense up. The visible symptoms are my pain/tightness in the adductor and rotation in my pelvic. An interesting twist is that rotated pelvic forces other body parts (e.g., lower back) to compensate. That introduces a constant tension in the back and the neck, which exacerbates joint misalignment—truly spooky at-distance-work. The worrying catch was that I didn't hear _how exactly_ jaw's position could influence my adductor's activity and why it was this muscle and not any other.
 
