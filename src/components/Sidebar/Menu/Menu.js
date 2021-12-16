@@ -1,7 +1,7 @@
 // @flow strict
 import React from 'react';
 import { Link } from 'gatsby';
-import styles from './Menu.module.scss';
+import * as styles from './Menu.module.scss';
 
 type Props = {
   menu: {
