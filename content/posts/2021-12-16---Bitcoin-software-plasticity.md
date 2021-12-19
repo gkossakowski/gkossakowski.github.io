@@ -4,7 +4,7 @@ date: '2021-12-16 15:51:20'
 template: post
 draft: false
 slug: bitcoin-software-plasticity
-category: personal
+category: software
 tags:
   - crypto
   - software
