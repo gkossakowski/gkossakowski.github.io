@@ -38,7 +38,7 @@ scarcity, fungibility, and low cost of an exchange. Scarcity means you can't mak
 air, which would decrease its value over time if possible. Fungibility means that each dollar or
 euro is the same. Contrast it to the time of barter when people had to haggle over conversion each
 time an exchange happened. E.g., a small pig is worth fewer bags of grain than a large one. Pigs are
-not equal. The low cost of exchange is pretty self-explanatory.
+not equal and hence not fungible. The low cost of exchange is pretty self-explanatory.
 
 Over time it became clear that Bitcoin is not cheap to exchange hands due to tech’s fundamental
 limitation of relying on proof of work. The narrative around Bitcoin shifted towards the
@@ -53,4 +53,5 @@ its use.
 
 There's a flip side of that coin (pun intended): a technology can succeed, but your specific bet
 (e.g., a product you want to build) will not. The best software entrepreneurs seem to know how to
-fire enough lead bullets to make it to the other side, though.
+fire enough [lead bullets](https://techcrunch.com/2011/10/25/lead-bullets/) to make it to the other
+side, though.
