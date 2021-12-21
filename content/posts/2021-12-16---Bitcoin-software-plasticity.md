@@ -14,10 +14,11 @@ socialImage: /media/image-2.jpg
 ---
 
 I've mostly remained oblivious to the crypto movement to date. I didn't have a strong opinion on the
-tech in either bear or bull direction; I was simply busy with other things. The recent thrill around
-the latest wave of crypto innovations in the form of DeFi and DAOs made me look into the movement
-more closely. On my plane ride from Miami to San Francisco, I picked up the original Bitcoin
-publication "Bitcoin: A Peer-to-Peer Electronic Cash System".
+tech in either bear or bull direction; I was busy with other things. The recent thrill around the
+latest wave of crypto innovations in the form of DeFi and DAOs made me look into the movement more
+closely. I also wondered whether in December 2021 they let people in San Francisco without handing
+in an opinion on decentralization _du jour_. So on my plane ride from Miami to San Francisco, I
+picked up the original Bitcoin publication "Bitcoin: A Peer-to-Peer Electronic Cash System".
 
 It's a nine pages long, a beautifully written paper. My computer science brain regions lit up when I
 saw an ingenious marriage between cryptography and an incentive design. The Bitcoin paper didn't
