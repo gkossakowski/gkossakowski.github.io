@@ -77,7 +77,7 @@
     "moment": "^2.24.0",
     "netlify-cms-app": "^2.11.27",
     "normalize-scss": "^7.0.1",
-    "prismjs": "^1.19.0",
+    "prismjs": "^1.27.0",
     "react": "^16.13.0",
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.13.0",
