@@ -1,8 +1,19 @@
 {
   "extends": [
-    "config:base"
+    "config:base",
+    ":automergePatch",
+    ":automergeBranch",
+    ":automergePatch",
+    ":automergeBranch",
+    ":automergeLinters",
+    ":automergeTesters",
+    ":automergeTypes"
   ],
   "packageRules": [
+    {
+      "packagePatterns": ["^stylelint"],
+      "groupName": "stylelint"
+    },
     {
       "packagePatterns": ["^eslint"],
       "groupName": "eslint"
@@ -20,6 +31,5 @@
   "prHourlyLimit": 4,
   "prConcurrentLimit": 16,
   "rangeStrategy": "bump",
-  "bumpVersion": null,
-  "semanticCommits": true
+  "semanticCommits": "enabled"
 }
