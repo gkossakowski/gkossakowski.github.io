@@ -1,0 +1,46 @@
+{
+  "title": "Blog by Grzegorz Kossakowski",
+  "url": "https://gkk.dev",
+  "subtitle": "Musings on software, sports health and recovery.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-163985580-1",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "name": "Grzegorz Kossakowski",
+    "photo": "/photo.jpg",
+    "bio": "Deep Learning ∩ Applications. A recent pivot from a 'promising career' in systems programming (core team behind the Scala programming language). Pastime: Ambient Computing.",
+    "contacts": {
+      "rss": "",
+      "email": "grzegorz.kossakowski@gmail.com",
+      "github": "gkossakowski",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "gkossakowski",
+      "linkedin": "",
+      "instagram": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}
