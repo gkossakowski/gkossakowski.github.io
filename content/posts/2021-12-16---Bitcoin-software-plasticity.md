@@ -1,6 +1,6 @@
 ---
 title: Bitcoin and software's plasticity
-date: '2021-12-16 15:51:20'
+date: 2021-12-16T15:51:20
 template: post
 draft: false
 slug: bitcoin-software-plasticity
