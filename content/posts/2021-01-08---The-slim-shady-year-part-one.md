@@ -30,14 +30,14 @@ Californian enthusiasm will not work".
 
 Without losing a beat, I responded from a message table:
 
-"Okey, I want to try anyway. If they ask me to play a tambourine, I'll do it."
+"Okey, I want to try anyway. If they ask me to play tambourine, I'll do it."
 
 Fabienne smiled and broke - the typical for Swiss - professional self-restraint
 and opened up slightly:
 
 "I don't know where you end up, but I like your unusual motivation."
 
-The truth is that I was running on fumes. It was the midpoint of my
+The truth is that I was running on fumes. It was the midpoint of the
 three-month-long medical sabbatical I took from my work in San Francisco, and
 nothing was going according to plan.
 
@@ -48,23 +48,23 @@ will serve as a guide and a backup - even if your writing falls short of high
 aspirations, a good story still will be there to save the reader. Undoubtedly,
 my recovery from a rare and daunting medical condition is the best story I
 can tell. On the one hand, my whole endeavor is a two-and-a-half-year-long
-Marshmallow test. There were so many times when I thought I'm wasting my life
+Marshmallow test. There were so many times when I thought I was wasting my life
 chasing a hopeless goal. On the other hand, this is a tale of trekking the very
 edge of sports medicine and a relentless search for a hidden pass.
 
-When I moved to San Francisco over three years ago, I was immediately struck by
-life-advice culture, especially in the work setting. Only closer inspection
+Upon moving to San Francisco over three years ago, I was immediately struck by
+the life-advice culture, especially in the work setting. Only closer inspection
 lifted the lid on the little secret - the advice is aspirational. It often
 expresses more the intent of how the world should work than reveals its mechanics.
 For example, beware of any management book that doesn't talk about emotions. Ben
-Horowitz said once that people management's basic motions are easy and emotions
+Horowitz said once that people management's basic motions are easy, and emotions
 are the hard part of the job. I agree and would expand this to health struggles
 and going through a long recovery. The basic motions of discipline and exercise
 regime are comparatively easy; trusting them when they seemingly lead nowhere is
 the hard part. Building a top-notch business and dealing with a complex medical
 issue share a trait: both are highly dimensional, and there's no recipe.
 
-Being wary of thin advice, I'm writing an account first, and a collection of the
+Being wary of thin advice, I'm writing an account first and a collection of the
 lessons learned second. I greatly benefit from hindsight - my extremely
 unusual choices worked out. However, I fully recognize that a downright failure
 was as likely of an outcome. I could have as easily burned an enormous amount of
@@ -75,7 +75,7 @@ high-flying industries of our time. Even if it felt anything but a privilege in
 the depths of the struggle. So it's a story about how not to screw up your
 advantage. It's a story of how not to punk out.
 
-My intention is not to be brief. I'm writing how I wish somebody else told me
+My intention is not to be brief. I'm writing how I wish somebody else had told me
 everything I know now when I was running around looking for a solution or just a
 sliver of hope. A rich backstory would help me believe that this person I'm talking
 to truly knows what a health struggle is about. I would cherish every word if I
@@ -98,7 +98,7 @@ The recap of my injury I wrote back in 2018:
 I moved to Basel for the summer of 2018 by taking a sabbatical from my job at
 Stripe. The plan was to entirely focus on the injury, spend three months working
 out the underlying puzzle, and fix my problem. I would come back to San
-Francisco, recovered, esctatic, and back to kicking. I bet on the original sports
+Francisco, recovered, ecstatic, and back to kicking. I bet on the original sports
 clinic of Europe, and it felt like a good plan.
 
 I took detailed notes of my first eight weeks of recovery. You can check them
@@ -128,9 +128,9 @@ People have warned me at Rehnbahnklinik that my issue is in the all-bets-are-off
 territory, and my move doesn't guarantee anything. The warning didn't say my
 condition might get even worse, though.
 
-Last month I spent feverishly looking for a solution. The facts: I had developed
-a muscle tension in my adductor that would turn itself on and off seemingly at
-random. The switch was so fast that the people at the clinic and I were
+Last month I spent feverishly looking for a solution. I had developed
+a muscle tension in my adductor that would turn itself on and off, seemingly at
+random. The switch was so fast that both the people at the clinic and myself become
 convinced it had a neurological origin. We tried a whole palette of local
 interventions that I described in my notes. None of them seemed to address the
 root cause of the problem. My doctor at the clinic declared he is out of ideas.
@@ -138,9 +138,9 @@ I had a month left in Basel. I decided to follow one more clue: Luca (one of my
 therapists) discovered that I had a condition called visual suppression caused
 by convergence insufficiency. In a nutshell, we suspected that my [ski
 accident](https://gkossakowski.medium.com/silicon-valley-exit-event-the-hard-landing-bb9c3125e25)
-might have left a small residual damage in my brain's perceptual regions that
-are closely linked with the sense of balance. Adductor is one of the muscles
-that participate in stabilizing hips and balance maintenance.
+might have left small residual damage in my brain's perceptual regions linked
+with the sense of balance. Adductor is one of the muscles that stabilize hips
+and balance maintenance.
 
 One of the challenges you face when dealing with a mysterious condition is that
 there's a lot of guesswork and false hopes involved. The trick is to stay open
@@ -148,8 +148,8 @@ to any possibility and, at the same time, kill the wrong hypothesis quickly.
 
 How do you go about killing the hypothesis on a connection between insufficient
 converge, a hidden brain injury, and stubborn tension in an adductor? I started
-off researching the strength of the first link. After searching online for the
-whole one afternoon, I came across research by Dr. Uzma Samadani, who worked on
+off researching the strength of the first link. After searching online forone whole afternoon,
+I came across research by Dr. Uzma Samadani, who worked on
 detecting hidden brain injuries. I sent her an email describing my condition,
 and she responded promptly (thank you!) with one sentence: look for an
 optometrist.
@@ -157,8 +157,8 @@ optometrist.
 I called the local vision research clinic and explained my predicament. I said,
 "I have this big muscle control puzzle, and there's this eye-related
 hypothesis". A few emails later, I convinced them to take me almost the next day
-despite the holiday season's peak. By that point, I learned how to play a
-"mystery card". I would get people excited that they are part of breaking an
+despite the holiday season peak. I learned how to play a "mystery card" by that point.
+I would get people excited that they are part of breaking an
 enigma. Especially in Switzerland, trying to go around the rules (e.g., skipping
 the line) won't get you far. Taking people on a quest is what worked much better
 for me.
@@ -169,11 +169,11 @@ I aced every other vision test (good news), and I'm back to square one (bad
 news).
 
 Deeply resigned, I reported the findings to Fabienne. I asked her one more time
-if she can think of anything else she might suggest. The next day she brought a
+if she could think of anything else she might suggest. The next day she brought a
 book with her and said, "I have an idea for you. There's this famous doctor in
 Germany that treats soccer players and specializes in muscle injuries. I learned
 from his textbook.". I was all fired up about this idea, and then she continued,
-"but it's going to be very hard to see him". By now, you can recognize this the
+"but it's going to be very hard to see him". By now, you can recognize this as the
 conversation with Fabienne I opened my post with. So what happened next that
 day? I told Fabien that I would figure out how to get there and see the famous
 doctor.
