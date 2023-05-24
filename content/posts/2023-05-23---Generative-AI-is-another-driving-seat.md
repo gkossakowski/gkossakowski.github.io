@@ -4,7 +4,7 @@ date: 2023-05-23T14:13:34
 template: post
 draft: false
 slug: generative-ai-driving-seat
-category: personal
+category: AI
 tags:
   - software
   - AI
