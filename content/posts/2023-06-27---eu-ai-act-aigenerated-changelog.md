@@ -1,5 +1,5 @@
 ---
-title: 'EU AI Act: an AI-generated changelog'
+title: 'The EU AI Act: an AI-generated changelog'
 date: 2023-06-27 19:20:39
 template: post
 draft: false
